@@ -1,1 +1,1 @@
-# CompLite.github.io
+# complite-ai.github.io
